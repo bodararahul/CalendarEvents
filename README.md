@@ -9,7 +9,6 @@ To use this library, you need to have Node.js and npm (Node Package Manager) ins
 ## Clone the repository to your local machine:
 
 ```bash
-Copy code
 git clone https://github.com/bodararahul/CalendarEvents.git
 
 // Navigate to the project directory:
