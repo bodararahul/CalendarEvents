@@ -11,21 +11,17 @@ To use this library, you need to have Node.js and npm (Node Package Manager) ins
 ```bash
 Copy code
 git clone https://github.com/bodararahul/CalendarEvents.git
-Navigate to the project directory:
 
-bash
-Copy code
+// Navigate to the project directory:
 cd CalendarEvents
-Install the library's dependencies:
 
-bash
-Copy code
+// Install the library's dependencies:
 npm install
 
-compile code 
+// compile code 
 tsc
 
-run code
+// run code
 node dist/main.js
 ```
 
